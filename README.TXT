@@ -1,0 +1,1 @@
+This fully functional bank account program allows users to create chequing and savings accounts and deposit/withdraw funds.
